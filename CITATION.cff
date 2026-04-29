@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "Endogenous Dynamic Stability"
+message: "If you use this work, please cite it as below."
+authors:
+  - family-names: "Marnov"
+    given-names: "Maksym"
+year: 2026
+version: "1.0.2"
