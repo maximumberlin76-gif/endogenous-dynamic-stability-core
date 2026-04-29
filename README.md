@@ -8,9 +8,9 @@ Core Idea
 
 Δ(t) = S(t) − P(t) − D(t)
 
-Δ(t) > 0 → growth
-Δ(t) = 0 → quasi-stationary
-Δ(t) < 0 → degradation
+- Δ(t) > 0 → growth
+- Δ(t) = 0 → quasi-stationary
+- Δ(t) < 0 → degradation
 
 System stability is determined by the balance between synthesis, load, and dissipation.
 
