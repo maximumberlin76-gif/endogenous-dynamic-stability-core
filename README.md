@@ -73,9 +73,11 @@ Status
 
 CORE v1.0 — initialized
 
-## Full Text
+## Model Versions
 
-See: [paper.md](./paper.md)
+- [CORE v1.0](./paper.md)
+- [EDS v1.1 (parameterized model)](./model_v1.1.md)
+
 
 ---
 
