@@ -73,6 +73,10 @@ Status
 
 CORE v1.0 — initialized
 
+## Full Text
+
+See: [paper.md](./paper.md)
+
 ---
 
 License
