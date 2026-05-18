@@ -1,173 +1,231 @@
-Examples
+# Examples
 
 ---
 
-1. Economic System
+# 1. Economic System
 
-Mapping
+## Mapping
 
-S — real structural growth (infrastructure, knowledge, human capital)
-P — extraction (rent, debt burden, resource drain)
-D — inefficiency (waste, corruption, friction)
+- S(t) — structural synthesis: infrastructure development, knowledge accumulation, industrial growth, human capital formation;
 
----
+- P(t) — structural dissipation pressure: destabilizing extraction, debt pressure, fragmentation of productive structure, speculative overload;
 
-Regimes
+- D(t) — irreversible structural losses: corruption, systemic inefficiency, irreversible degradation of infrastructure, institutional decay;
 
-If:
-
-S > P + D
-⇒ sustainable development
-
-If:
-
-S ≈ P + D
-⇒ stagnation
-
-If:
-
-S < P + D
-⇒ structural degradation
+- C(t) — structural regeneration and retained structural continuity of the economic system.
 
 ---
 
-Insight
+## Regimes
+
+If:
+
+    S(t) > P(t) + D(t)
+
+→ regenerative structural surplus emerges and sustainable development remains operationally accessible.
+
+If:
+
+    S(t) ≈ P(t) + D(t)
+
+→ quasi-stationary stagnation regime emerges.
+
+If:
+
+    S(t) < P(t) + D(t)
+
+→ structural degradation and fragmentation propagate.
+
+---
+
+## Insight
 
 GDP growth alone does not guarantee stability.
 
-Only structural surplus matters.
+Only retained regenerative structural surplus preserves long-term operational continuity.
 
 ---
 
-2. Artificial Intelligence Systems
+# 2. Artificial Intelligence Systems
 
-Mapping
+## Mapping
 
-S — useful output (productivity gain, problem-solving)
-P — system load (complexity, maintenance, human adaptation)
-D — computational waste (energy, redundancy, errors)
+- S(t) — useful structural synthesis: productive problem-solving, adaptive optimization, operational assistance, constructive information processing;
 
----
+- P(t) — structural dissipation pressure: infrastructure overload, adaptation burden, destabilizing complexity growth, recursive operational stress;
 
-Observation
+- D(t) — irreversible structural losses: computational waste, irreversible redundancy, scaling inefficiency, error amplification;
 
-Modern AI systems:
-
-• increase S in narrow domains
-• increase D at scale
-• increase P via infrastructure demands
+- C(t) — regenerative operational continuity and retained adaptive structural capacity.
 
 ---
 
-Condition
+## Observation
 
-Stability requires:
+Modern AI systems may:
 
-S ≥ P + D
+- increase S(t) in narrow operational domains;
+
+- increase D(t) through scaling inefficiency and computational waste;
+
+- increase P(t) through infrastructure demands and recursive operational complexity.
+
+---
+
+## Stability Condition
+
+Operational stability requires:
+
+    S(t) ≥ P(t) + D(t)
+
+and sufficiently preserved:
+
+    C(t) > P(t)
 
 Otherwise:
 
-AI becomes an energy-intensive noise amplifier
+- AI systems become energy-intensive amplifiers of operational noise and structural dissipation.
 
 ---
 
-3. Human System
+# 3. Human System
 
-Mapping
+## Mapping
 
-S — recovery, growth, meaning
-P — stress, obligations
-D — energy loss (fatigue, burnout)
+- S(t) — recovery, adaptive growth, meaning formation, retained cognitive synthesis;
 
----
+- P(t) — structural dissipation pressure: stress, destabilizing obligations, cognitive overload, operational fragmentation pressure;
 
-Stability
+- D(t) — irreversible losses: burnout, chronic exhaustion, irreversible degradation of adaptive capacity;
 
-S ≥ P + D
+- C(t) — regenerative continuity and restorative structural capacity of the human system.
 
 ---
 
-Failure
+## Stability Condition
+
+Operational continuity requires:
+
+    S(t) ≥ P(t) + D(t)
+
+and:
+
+    C(t) > P(t)
+
+---
+
+## Failure Regime
 
 If:
 
-S < P + D
+    S(t) < P(t) + D(t)
 
-⇒ burnout → collapse
+→ destabilization propagates:
 
----
-
-Insight
-
-Productivity without recovery leads to instability.
+- burnout;
+- adaptive collapse;
+- fragmentation of operational continuity.
 
 ---
 
-4. Biological System
+## Insight
 
-Mapping
-
-S — biosynthesis
-D — metabolic loss
-P — environmental stress
+Productivity without regenerative continuity leads to structural instability.
 
 ---
 
-Condition
+# 4. Biological System
 
-Life persists if:
+## Mapping
 
-S ≥ P + D
+- S(t) — biosynthesis and regenerative structural formation;
 
----
+- P(t) — environmental stress, destabilizing pressure, structural dissipation pressure;
 
-Failure
+- D(t) — irreversible metabolic and structural losses;
 
-S < P + D
-⇒ organism degrades
-
----
-
-5. Physical System (Laser)
-
-Mapping
-
-S — pump energy (inversion)
-D — losses
-P — perturbations
+- C(t) — regenerative continuity and retained biological structural integrity.
 
 ---
 
-Regimes
+## Stability Condition
 
-Below threshold:
+Biological continuity persists while:
 
-S < D
-⇒ no coherence
+    S(t) ≥ P(t) + D(t)
 
-Above threshold:
+and:
 
-S > D
-⇒ stable emission
+    C(t) > P(t)
 
 ---
 
-Final Insight
+## Failure Regime
 
-Across all systems:
+If:
 
-Δ = S − P − D
+    S(t) < P(t) + D(t)
+
+→ structural degradation propagates and biological continuity collapses.
+
+---
+
+# 5. Physical System (Laser)
+
+## Mapping
+
+- S(t) — structural energy synthesis and population inversion formation;
+
+- P(t) — destabilizing perturbations and dissipation pressure;
+
+- D(t) — irreversible optical and energetic losses;
+
+- C(t) — retained coherent structural continuity of the operational regime.
+
+---
+
+## Regimes
+
+Below operational threshold:
+
+    S(t) < P(t) + D(t)
+
+→ stable coherent operational continuity cannot emerge.
+
+Above operational threshold:
+
+    S(t) > P(t) + D(t)
+
+and:
+
+    C(t) > P(t)
+
+→ stable coherent emission regime becomes operationally accessible.
+
+---
+
+# Final Insight
+
+Across all examined systems:
+
+    Δ(t) = S(t) − P(t) − D(t)
 
 determines:
 
-• growth
-• stability
-• collapse
+- structural growth;
+
+- retained operational continuity;
+
+- destabilization propagation;
+
+- fragmentation accessibility;
+
+- and operational viability.
 
 ---
 
-Key Result
+# Key Result
 
-The same condition applies across domains.
+The same operational condition appears across multiple domains.
 
-This suggests a universal structural principle.
+This suggests the existence of a universal operational principle governing structural continuity, regeneration, dissipation, and dynamic stability in open dynamical systems.
