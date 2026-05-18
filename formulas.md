@@ -2,6 +2,306 @@
 
 ---
 
+# Glossary
+
+---
+
+# Operational Time — t
+
+    t
+
+represents operational time.
+
+Operationally:
+
+- t defines the temporal evolution of structural dynamics, regeneration, dissipation, synchronization, and operational continuity.
+
+---
+
+# System State — X(t)
+
+    X(t)
+
+represents the operational state of the system at time t.
+
+Operationally:
+
+- X(t) describes the measurable dynamic configuration of the system.
+
+Constraint:
+
+    X(t) ∈ ℝⁿ
+
+---
+
+# Structural Synthesis — S(t)
+
+    S(t)
+
+represents structural synthesis and formation of organized operational structure at time t.
+
+Operationally:
+
+- S(t) contributes to constructive structural formation, adaptive organization, and retained operational continuity.
+
+Examples:
+
+- structural growth;
+- adaptive restructuring;
+- knowledge accumulation;
+- operational organization.
+
+Constraint:
+
+    S(t) ≥ 0
+
+---
+
+# Structural Dissipation Pressure — P(t)
+
+    P(t)
+
+represents structural dissipation pressure, destabilizing extraction, fragmentation pressure, overload, or operational destabilization at time t.
+
+Operationally:
+
+- P(t) reduces retained structural continuity and increases destabilization propagation.
+
+Examples:
+
+- fragmentation pressure;
+- destabilizing operational stress;
+- recursive overload;
+- structural destabilization.
+
+Constraint:
+
+    P(t) ≥ 0
+
+---
+
+# Irreversible Structural Losses — D(t)
+
+    D(t)
+
+represents irreversible structural losses and entropy-producing degradation at time t.
+
+Operationally:
+
+- D(t) describes losses that cannot be fully restored through endogenous regenerative processes.
+
+Examples:
+
+- entropy production;
+- irreversible degradation;
+- unrecoverable structural losses;
+- operational collapse channels.
+
+Constraint:
+
+    D(t) ≥ 0
+
+---
+
+# Operational Structural Balance — Δ(t)
+
+    Δ(t)
+
+represents operational structural balance.
+
+Definition:
+
+    Δ(t) = S(t) − P(t) − D(t)
+
+Operational interpretation:
+
+- Δ(t) > 0 → structural growth and retained continuity;
+
+- Δ(t) = 0 → quasi-stationary operational balance;
+
+- Δ(t) < 0 → structural degradation and fragmentation.
+
+---
+
+# Structural Regeneration — C(t)
+
+    C(t)
+
+represents:
+
+- structural regeneration;
+- retained structural continuity;
+- restorative structural capacity.
+
+Operationally:
+
+- C(t) describes the ability of the system to restore and retain structural integrity over operational time.
+
+Examples:
+
+- regenerative stabilization;
+- adaptive recovery;
+- retained operational continuity;
+- restorative structural accessibility.
+
+---
+
+# Operational Coupling Factor — K(t)
+
+    K(t)
+
+represents operational coherence and synchronization coupling.
+
+Operationally:
+
+- K(t) modulates effective structural synthesis and dissipation propagation.
+
+Constraint:
+
+    K(t) ∈ (0,1]
+
+---
+
+# Effective Structural Synthesis — S_eff
+
+    S_eff
+
+represents effective structural synthesis under operational synchronization coupling.
+
+Definition:
+
+    S_eff = K(t) · S(t)
+
+---
+
+# Effective Structural Losses — D_eff
+
+    D_eff
+
+represents effective irreversible structural losses under operational coupling conditions.
+
+Definition:
+
+    D_eff = D(t) / K(t)
+
+---
+
+# Operational Observable — O
+
+    O
+
+represents a measurable operational observable quantity.
+
+Operationally:
+
+- O may describe macroscopic operational behavior of the system.
+
+---
+
+# Averaged Operational Observable — ⟨O⟩
+
+    ⟨O⟩
+
+represents an averaged operational observable.
+
+Operationally:
+
+- ⟨O⟩ is used to describe quasi-stationary operational regimes.
+
+---
+
+# Operational Jacobian — J
+
+    J
+
+represents the local operational Jacobian matrix.
+
+Definition:
+
+    J = ∂F/∂X
+
+Operationally:
+
+- J describes local sensitivity of operational dynamics to perturbations.
+
+---
+
+# Eigenvalues — λ_i
+
+    λ_i
+
+represent eigenvalues of the operational Jacobian.
+
+Operational interpretation:
+
+- eigenvalues determine local operational stability accessibility.
+
+---
+
+# Operational Lyapunov Functional — V(X)
+
+    V(X)
+
+represents an operational Lyapunov-like stability functional.
+
+Operationally:
+
+- V(X) measures operational stability accessibility and boundedness of trajectories.
+
+Constraint:
+
+    V(X) ≥ 0
+
+---
+
+# Operational Parameter — μ
+
+    μ
+
+represents an operational control parameter influencing dynamic accessibility and bifurcation formation.
+
+---
+
+# Stochastic Fluctuation Intensity — σ
+
+    σ
+
+represents stochastic fluctuation intensity within operational stochastic dynamics.
+
+---
+
+# Wiener Process Increment — dW_t
+
+    dW_t
+
+represents an infinitesimal stochastic Wiener process increment.
+
+Operationally:
+
+- dW_t models stochastic perturbations affecting operational dynamics.
+
+---
+
+# Regenerative Recovery Resource — R(t)
+
+    R(t)
+
+represents regenerative recovery resources available to the system at time t.
+
+Operationally:
+
+- R(t) contributes to restoration of retained operational continuity.
+
+---
+
+# Critical Recovery Threshold — R_crit
+
+    R_crit
+
+represents the minimum regenerative recovery threshold required for retained operational continuity.
+
+---
+
 # 1. Fundamental Operational Dynamics
 
 Let:
