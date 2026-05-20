@@ -37,7 +37,17 @@ The EDS framework applies to open dynamical systems across physical, biological,
 
 ## Structural Existence vs Dynamic Stability
 
-Two different conditions must be separated.
+Two fundamentally different conditions must be separated.
+
+A structure may continue to exist externally while already losing its internal agreed coherent dynamics.
+
+Therefore:
+
+structural existence
+≠
+dynamic structural stability
+
+---
 
 ### Structural Existence Condition
 
@@ -47,11 +57,15 @@ Operational meaning:
 
 - structural synthesis exceeds destabilizing load and dissipation;
 
-- the system preserves positive net structural formation;
+- the structure preserves positive net formation balance;
 
-- the structure continues to exist as an organized system.
+- the system continues to exist as an organized structure.
 
-This condition defines structural existence.
+This condition defines whether the structure still exists.
+
+It does not yet guarantee deep internal structural integrity.
+
+A structure may preserve external form while internally losing coherent subsystem dynamics.
 
 ---
 
@@ -61,29 +75,75 @@ C(t) > P(t)
 
 Where:
 
-- C(t) represents retained structural continuity, coordinated subsystem integrity, regenerative structural capacity, and synchronized operational dynamics;
+C(t) represents:
 
-- P(t) represents destabilizing structural pressure, dissipation pressure, fragmentation pressure, and degradation load.
+- retained structural continuity;
+
+- regenerative structural capacity;
+
+- agreed coherent subsystem dynamics;
+
+- internally agreed coherent operational dynamics maintained over time.
+
+P(t) represents:
+
+- destabilizing structural pressure;
+
+- dissipation pressure;
+
+- fragmentation pressure;
+
+- degradation load acting against retained integrity.
 
 Operational meaning:
 
 - regeneration of structural integrity outpaces destabilizing dissipation;
 
-- coordinated subsystem dynamics remain stronger than fragmentation;
+- agreed coherent subsystem dynamics remain stronger than fragmentation pressure;
 
-- retained structural continuity persists over operational time.
+- retained coherent structural continuity persists over operational time.
 
 This condition defines dynamically retained structural stability.
 
 ---
 
-Operational distinction:
+### Operational Difference
 
 Δ(t) > 0
-→ the structure still exists
+
+means:
+
+- the structure still exists.
 
 C(t) > P(t)
-→ the structure remains dynamically stable and operationally self-retaining
+
+means:
+
+- the structure preserves internally agreed coherent dynamics;
+
+- regenerative continuity exceeds destabilizing dissipation;
+
+- the system remains dynamically self-retaining over time.
+
+---
+
+### Structural Interpretation
+
+External appearance alone does not determine real structural integrity.
+
+A structure may appear externally stable while internally losing:
+
+- agreed coherent subsystem dynamics;
+
+- regenerative continuity;
+
+- retained structural integrity.
+
+Within EDS/EDC:
+
+real endogenous structural integrity is determined not by external form alone,
+
+but by the retained internally agreed coherent dynamics of interacting subsystems over operational time.
 
 ---
 
